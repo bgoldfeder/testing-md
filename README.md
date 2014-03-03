@@ -1,2 +1,2 @@
-testing-md
-==========
+| Tribe Champion | API Call Name | Protocol | API Request | API Response | From Component | To Component | Implementation (does not exist, exists, steel) | CD status (none, partial, full) | Automated Testing status | Notes |
+|----------------|---------------|----------|-------------|--------------|----------------|--------------|------------------------------------------------|---------------------------------|--------------------------|-------|
